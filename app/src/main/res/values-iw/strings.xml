@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מלווה בטוח</string>
+
+    <string name="tab_alerts">התראות</string>
+    <string name="tab_stats">סקירה</string>
+    <string name="tab_settings">הגדרות</string>
+    <string name="tab_about">איך זה עובד</string>
+
+    <string name="status_active">הניטור פעיל</string>
+    <string name="status_inactive">לא פעיל — הקש כדי לאפשר גישה להתראות</string>
+    <string name="enable_access">אפשר גישה להתראות</string>
+
+    <string name="no_alerts">אין עדיין התראות. כשהאפליקציה תזהה משהו שכדאי שהורה ישים לב אליו בוואטסאפ, הוא יופיע כאן.</string>
+
+    <string name="severity_low">נמוכה</string>
+    <string name="severity_medium">בינונית</string>
+    <string name="severity_high">גבוהה</string>
+
+    <string name="stats_total_alerts">סך התראות</string>
+    <string name="stats_messages_seen">הודעות שנותחו</string>
+    <string name="stats_high">חומרה גבוהה</string>
+    <string name="stats_last7">7 ימים אחרונים</string>
+
+    <string name="settings_sensitivity">רגישות</string>
+    <string name="settings_sensitivity_desc">רגישות גבוהה יותר מעלה יותר התראות, כולל מצבים קלים יותר.</string>
+    <string name="settings_age">קבוצת גיל של הילד/ה</string>
+    <string name="settings_categories">קטגוריות לניטור</string>
+    <string name="settings_retention">מחיקת נתונים לאחר</string>
+    <string name="settings_retention_desc">הודעות והתראות ישנות מזה נמחקות אוטומטית ולצמיתות מהמכשיר.</string>
+
+    <string name="about_title">מה האפליקציה עושה — ומה לא</string>
+</resources>

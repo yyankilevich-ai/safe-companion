@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safe Companion</string>
+
+    <string name="tab_alerts">Alerts</string>
+    <string name="tab_stats">Overview</string>
+    <string name="tab_settings">Settings</string>
+    <string name="tab_about">How it works</string>
+
+    <string name="status_active">Monitoring is active</string>
+    <string name="status_inactive">Not active — tap to enable Notification Access</string>
+    <string name="enable_access">Enable Notification Access</string>
+
+    <string name="no_alerts">No alerts yet. When Safe Companion notices something worth a parent\'s attention in WhatsApp, it will appear here.</string>
+
+    <string name="severity_low">Low</string>
+    <string name="severity_medium">Medium</string>
+    <string name="severity_high">High</string>
+
+    <string name="stats_total_alerts">Total alerts</string>
+    <string name="stats_messages_seen">Messages analyzed</string>
+    <string name="stats_high">High severity</string>
+    <string name="stats_last7">Last 7 days</string>
+
+    <string name="settings_sensitivity">Sensitivity</string>
+    <string name="settings_sensitivity_desc">Higher sensitivity raises more alerts, including milder situations.</string>
+    <string name="settings_age">Child age band</string>
+    <string name="settings_categories">Categories to watch</string>
+    <string name="settings_retention">Delete data after</string>
+    <string name="settings_retention_desc">Messages and alerts older than this are automatically and permanently deleted from this device.</string>
+
+    <string name="about_title">What this app does — and does not do</string>
+</resources>
